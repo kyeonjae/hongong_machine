@@ -1,1 +1,1 @@
-# selfstudy_ml
+# [책] 혼공머신 
